@@ -1,7 +1,7 @@
 # electron-forge-react-ts
 electron-forgeのtypescript-webpackテンプレートでReactを使うテスト
 
-＊ electron-forge
+* electron-forge
 * webpack
 * typescript
 * react
